@@ -1,0 +1,56 @@
+.box1 {
+  max-width: 300px;
+  min-height: 400px;
+  background-image: url("../../assets/imagem1.jpeg");
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  opacity: 0.7;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.box2 {
+  max-width: 300px;
+  min-height: 400px;
+  background-image: url("../../assets/imagem2.jpeg");
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  opacity: 0.7;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.box3 {
+  max-width: 300px;
+  min-height: 400px;
+  background-image: url("../../assets/imagem3.jpeg");
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  opacity: 0.7;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+p {
+  display: grid;
+  place-items: center;
+  padding: 10rem 1rem 1rem 1rem;
+
+  &:hover {
+    opacity: 0.7;
+   
+ 
+  }
+}
+
+
+

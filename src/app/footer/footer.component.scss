@@ -1,0 +1,22 @@
+.box_footer {
+  height: 50vh;
+  background-image: url("../../assets/floresta-chuvosa.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+  position: relative;
+}
+
+.form_submit {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 8rem;
+}
+
+
+
+
+
